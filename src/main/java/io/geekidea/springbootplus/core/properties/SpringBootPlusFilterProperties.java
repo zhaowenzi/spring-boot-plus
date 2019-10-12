@@ -21,6 +21,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.NestedConfigurationProperty;
 
 /**
+ * Filter配置属性
+ *
  * @author geekidea
  * @date 2019-09-29
  * @since 1.3.0.RELEASE
